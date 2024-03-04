@@ -12,3 +12,7 @@
 ## 트러블 슈팅
 - INA219모듈이 현재 인식은 되지만, 전류 측정이 되지 않는것이 가장 큰 문제입니다.
 - 이것을 해결하기위해서 부품을 바꿔서 다시 테스트 해 보려고 합니다.
+
+## 참고 문서
+- Arduino INA219 공식 문서 : [Click](https://how2electronics.com/how-to-use-ina219-dc-current-sensor-module-with-arduino/)
+- 마크다운 문법 : [Click](https://gist.github.com/ihoneymon/652be052a0727ad59601)
